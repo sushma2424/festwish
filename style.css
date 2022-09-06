@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-container {
+    background-image: url("https://subcontracteu.com/uploads/pages/535eee07e8fd4c9fabc377cd464c1d74.png");
+    background-size: cover;
+
+    height: 100vh;
+
+}
+
+
+.cord {
+    background-color: white;
+    height: 250px;
+    width: 450px;
+    margin: 24px;
+
+
+}
+
+.heading {
+    font-family: "roboto";
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+    padding: 15px;
+
+}
+
+
+
+
+.bottom-card {
+    background-color: white;
+    width: 450px;
+    height: 250px;
+
+
+
+}
+
+
+
+.bottom-heading {
+    font-family: "roboto";
+    font-size: 19px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+.bottom-paragraph {
+    font-family: "roboto";
+    font-size: 9px;
+    text-align: center;
+    margin: 24px;
+
+}
+
+
+.padding {
+    padding: 15px;
+}
